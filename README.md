@@ -32,6 +32,16 @@ In your project root directory, use the Kinde CLI and run
 kinde custom-ui --template bark-n-bite
 ```
 
+## Looking for general Custom UI guides/templates?
+
+This repository is intentionally focused on the unknown-email login recovery flow.
+
+For broader Kinde Custom UI guidance and starter templates, see:
+
+- [Kinde docs](https://docs.kinde.com)
+- [Kinde starter kits organization](https://github.com/kinde-starter-kits)
+- [Kinde community](https://community.kinde.com)
+
 ## Customization Guide
 
 ### Page Layouts
