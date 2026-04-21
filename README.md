@@ -2,6 +2,8 @@
 
 A fully customizable UI starter template built with React Server Components and Kinde's Custom UI feature. Design your auth flows with complete control over the UI, including automatic redirect to sign-up when a login email is not found and seamless email prefill on the register form.
 
+This repository is purpose-built for the unknown-email login recovery flow (redirect to sign-up with prefill) and is not intended to be a general Kinde Custom UI reference.
+
 ## Preview
 
 View [live demo](https://barknbite.kindedemo.com/auth/cx/_:nav&m:register&psid:0194dd77a537034284e1e6d54a3f5777)
