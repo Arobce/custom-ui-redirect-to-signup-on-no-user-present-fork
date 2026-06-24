@@ -19,6 +19,8 @@ export const workflowSettings: WorkflowSettings = {
 
 // The workflow code to be executed when the event is triggered
 export default async function Workflow(event: onNewPasswordProvidedEvent) {
+    console.log(event);
+
     const isMinCharacters = event.context.auth.Password.length >= 50;
 
     if (!isMinCharacters) {
